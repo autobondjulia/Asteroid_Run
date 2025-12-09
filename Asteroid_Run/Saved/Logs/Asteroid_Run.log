@@ -1568,3 +1568,825 @@ The current user directory, for saving user-specific settings:
 [2025.12.09-14.30.46:650][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1012.216370
 [2025.12.09-14.30.47:651][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.09-14.30.47:651][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1012.884216, Update Interval: 331.903442
+[2025.12.09-14.36.34:242][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1359.807007
+[2025.12.09-14.36.34:373][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.36.34:373][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1359.925171, Update Interval: 331.178314
+[2025.12.09-14.37.30:868][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-14.37.32:925][737]LogSlate: Window 'Save Content' being destroyed
+[2025.12.09-14.37.32:956][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-14.37.33:017][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.09-14.37.33:028][737]LogSavePackage: Moving output files for package: /Game/InCamVFXBP/Maps/Space_1
+[2025.12.09-14.37.33:029][737]LogSavePackage: Moving '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Saved/Space_1C8CA217A465636B21EF435BC54587754.tmp' to '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Content/InCamVFXBP/Maps/Space_1.umap'
+[2025.12.09-14.37.33:034][737]LogFileHelpers: Saving map 'Space_1' took 0.043
+[2025.12.09-14.37.33:092][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.975 ms (total: 910.007 ms)
+[2025.12.09-14.37.33:092][737]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InCamVFXBP/Maps/Space_1.Space_1
+[2025.12.09-14.37.33:093][737]Cmd: MAP LOAD FILE="../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Content/InCamVFXBP/Maps/Space_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.09-14.37.33:151][737]LogWorld: UWorld::CleanupWorld for Space_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-14.37.33:151][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-14.37.33:168][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.09-14.37.33:169][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.09-14.37.33:170][737]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.37.33:171][737]LogAudio: Display: Audio Device (ID: 1) registered with world 'Space_1'.
+[2025.12.09-14.37.33:171][737]LogChaosDD: Creating Chaos Debug Draw Scene for world Space_1
+[2025.12.09-14.37.33:181][737]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.09-14.37.33:196][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.12.09-14.37.33:200][737]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.09-14.37.33:200][737]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2025.12.09-14.37.33:274][737]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-14.37.33:274][737]LogContentValidation: Enabled validators:
+[2025.12.09-14.37.33:274][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-14.37.33:274][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-14.37.33:274][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-14.37.33:274][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-14.37.33:274][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-14.37.33:274][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-14.37.33:274][737]AssetCheck: /Game/InCamVFXBP/Maps/Space_1 Validating asset
+[2025.12.09-14.37.33:293][737]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.09-14.37.33:298][738]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-14.42.36:555][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1722.118774
+[2025.12.09-14.42.37:555][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.42.37:555][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1722.786011, Update Interval: 333.688782
+[2025.12.09-14.48.55:947][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2101.510254
+[2025.12.09-14.48.56:947][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.48.56:948][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2102.183838, Update Interval: 306.557220
+[2025.12.09-14.55.00:630][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2466.198486
+[2025.12.09-14.55.00:773][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.55.00:773][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2466.326904, Update Interval: 355.786621
+[2025.12.09-15.01.40:671][648]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2866.238037
+[2025.12.09-15.01.40:828][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.01.40:828][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2866.380859, Update Interval: 327.215790
+[2025.12.09-15.07.46:516][242]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3232.086426
+[2025.12.09-15.07.46:660][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.07.46:660][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3232.218262, Update Interval: 335.124359
+[2025.12.09-15.11.36:098][609]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Materials/Material_004.Material_004
+[2025.12.09-15.11.36:129][609]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.09-15.11.36:134][609]LogStreaming: Display: FlushAsyncLoading(398): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-15.11.42:661][851]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Materials/Material_001.Material_001
+[2025.12.09-15.11.42:680][851]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.09-15.12.33:299][495]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/spaceship_low_poly_texture_0.spaceship_low_poly_texture_0
+[2025.12.09-15.12.57:083][771]LogSlate: Window 'spaceship_low_poly_texture_0' being destroyed
+[2025.12.09-15.12.57:100][771]LogSlate: Window 'spaceship_low_poly_texture_0' being destroyed
+[2025.12.09-15.12.57:115][771]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.12.57:115][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.12.57:140][771]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.12.57:140][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.12.57:270][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.12.09-15.14.04:645][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.09-15.14.04:663][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InCamVFXBP/Maps/Space_1_Auto1
+[2025.12.09-15.14.04:663][205]LogSavePackage: Moving '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Saved/Space_1_Auto1D96AA41647698F12075864BD18834F04.tmp' to '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Saved/Autosaves/Game/InCamVFXBP/Maps/Space_1_Auto1.umap'
+[2025.12.09-15.14.04:665][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InCamVFXBP/Maps/Space_1' took 0.033
+[2025.12.09-15.14.04:665][205]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.12.09-15.14.06:584][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3612.175049
+[2025.12.09-15.14.07:587][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.14.07:587][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3612.843262, Update Interval: 358.077332
+[2025.12.09-15.14.23:893][408]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/StaticMeshes/spaceship_low_poly.spaceship_low_poly
+[2025.12.09-15.14.23:984][408]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.09-15.15.06:821][ 34]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Materials/Material_001.Material_001
+[2025.12.09-15.15.06:823][ 34]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.09-15.15.25:404][158]LogSlate: Window 'Material_001' being destroyed
+[2025.12.09-15.15.25:428][158]LogSlate: Window 'Material_001' being destroyed
+[2025.12.09-15.15.25:496][158]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.15.25:496][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.15.25:521][158]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.15.25:521][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.15.25:577][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.09-15.15.37:421][954]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.12.09-15.15.37:428][954]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.12.09-15.15.37:454][955]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.12.09-15.15.38:277][ 17]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.12.09-15.15.38:279][ 17]LogContentBrowser: End creating deferred item NewMaterial
+[2025.12.09-15.15.40:201][133]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial.NewMaterial
+[2025.12.09-15.15.40:212][133]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.09-15.15.40:673][133]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.15.40:673][133]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.15.40:673][133]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.15.40:673][133]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.15.40:684][133]LogSlate: Took 0.006147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.09-15.15.40:773][135]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.15.40:773][135]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.15.40:773][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.15.40:773][135]MaterialEditorStats: Shader Count: 3
+[2025.12.09-15.15.40:773][135]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.15.42:148][182]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.09-15.15.42:148][182]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.15.42:148][182]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.09-15.15.42:148][182]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.15.42:148][182]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.15.42:148][182]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.15.44:297][295]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.15.44:297][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.15.44:297][295]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.15.44:297][295]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.15.44:399][297]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.09-15.15.44:399][297]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.15.44:399][297]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.09-15.15.44:399][297]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.15.44:399][297]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.15.44:399][297]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.15.47:858][491]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.15.47:859][491]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.09-15.15.47:859][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.15.47:859][491]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.15.47:859][491]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.15.47:917][493]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.09-15.15.47:918][493]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.15.47:918][493]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.09-15.15.47:918][493]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.09-15.15.47:918][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.15.47:918][493]MaterialEditorStats: Shader Count: 4
+[2025.12.09-15.15.47:918][493]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.15.51:141][677]LogDerivedDataCache: C:/Users/25YChervynska.bife/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-15.15.56:442][976]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/spaceship_low_poly_texture_2.spaceship_low_poly_texture_2
+[2025.12.09-15.16.03:665][212]LogSlate: Window 'Message' being destroyed
+[2025.12.09-15.16.03:675][212]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial.NewMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2025.12.09-15.16.03:691][212]LogSlate: Window 'spaceship_low_poly_texture_2' being destroyed
+[2025.12.09-15.16.03:694][212]LogSlate: Window 'spaceship_low_poly_texture_2' being destroyed
+[2025.12.09-15.16.03:708][212]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.16.03:708][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.16.03:773][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.09-15.16.03:816][212]LogAutomationController: Ignoring very large delta of 3.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.09-15.16.05:651][301]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial.NewMaterial
+[2025.12.09-15.16.05:653][301]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.09-15.16.06:030][301]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.06:030][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.16.06:030][301]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.06:030][301]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.06:084][303]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.09-15.16.06:084][303]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.06:084][303]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.09-15.16.06:084][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.16.06:085][303]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.06:085][303]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.07:577][380]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.07:577][380]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.16.07:577][380]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.07:577][380]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.07:691][382]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.09-15.16.07:691][382]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.07:691][382]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.09-15.16.07:691][382]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.16.07:691][382]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.07:691][382]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.11:785][549]LogSlate: Window 'Message' being destroyed
+[2025.12.09-15.16.11:792][549]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial.NewMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2025.12.09-15.16.11:803][549]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.09-15.16.11:806][549]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.09-15.16.11:819][549]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.16.11:819][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.16.11:857][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.09-15.16.12:919][616]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial.NewMaterial
+[2025.12.09-15.16.12:921][616]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.09-15.16.13:323][616]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.13:323][616]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.16.13:323][616]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.13:323][616]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.13:455][618]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.09-15.16.13:455][618]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.13:455][618]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.09-15.16.13:455][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.16.13:455][618]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.13:455][618]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.15:995][752]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.15:995][752]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.16.15:995][752]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.15:995][752]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.16:109][754]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.09-15.16.16:109][754]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.16:109][754]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.09-15.16.16:109][754]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.09-15.16.16:109][754]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.16:109][754]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.17:645][834]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.17:645][834]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.09-15.16.17:645][834]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.17:645][834]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.17:645][834]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.17:703][836]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.09-15.16.17:703][836]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.17:703][836]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.09-15.16.17:703][836]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.09-15.16.17:703][836]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.17:703][836]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.17:703][836]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.19:949][944]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.19:950][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.09-15.16.19:950][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.19:950][944]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.19:950][944]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.20:059][946]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.09-15.16.20:059][946]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.20:059][946]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.09-15.16.20:059][946]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.09-15.16.20:059][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.20:059][946]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.20:059][946]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.24:533][197]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.24:533][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.24:533][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.24:533][197]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.24:533][197]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.25:179][235]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.25:179][235]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.09-15.16.25:179][235]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.25:179][235]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.25:179][235]MaterialEditorStats: Shader Count: 3
+[2025.12.09-15.16.25:179][235]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.25:282][241]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.16.25:282][241]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.25:282][241]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.16.25:282][241]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.25:282][241]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.25:282][241]MaterialEditorStats: Shader Count: 4
+[2025.12.09-15.16.25:282][241]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.29:071][456]LogMaterialEditor: Applying material NewMaterial
+[2025.12.09-15.16.30:309][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.09-15.16.31:421][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.12.09-15.16.31:439][456]LogAutomationController: Ignoring very large delta of 2.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.09-15.16.32:869][517]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.09-15.16.52:409][641]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.52:409][641]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.52:409][641]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.52:409][641]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.52:409][641]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.52:465][643]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.16.52:465][643]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.52:465][643]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.16.52:465][643]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.52:465][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.52:465][643]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.52:466][643]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.54:699][770]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.54:699][770]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.54:699][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.54:699][770]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.54:699][770]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.54:737][772]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.16.54:737][772]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.54:737][772]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.16.54:737][772]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.54:737][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.54:737][772]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.54:737][772]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.56:489][870]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.16.56:489][870]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.56:489][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.56:489][870]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.16.56:489][870]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.16.56:534][873]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.16.56:535][873]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.16.56:535][873]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.16.56:535][873]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.16.56:535][873]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.16.56:535][873]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.16.56:535][873]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.09-15.17.01:068][126]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.17.01:068][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.01:068][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.01:068][126]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.17.01:068][126]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.01:736][163]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.17.01:736][163]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.09-15.17.01:736][163]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.01:736][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.01:736][163]MaterialEditorStats: Shader Count: 3
+[2025.12.09-15.17.01:736][163]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.01:943][175]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.17.01:943][175]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.17.01:943][175]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.17.01:943][175]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.01:943][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.01:943][175]MaterialEditorStats: Shader Count: 4
+[2025.12.09-15.17.01:943][175]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.06:211][421]LogMaterialEditor: Applying material NewMaterial
+[2025.12.09-15.17.06:306][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.09-15.17.07:521][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.12.09-15.17.08:243][462]LogShaderCompilers: Display: ================================================
+[2025.12.09-15.17.08:243][462]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.09-15.17.08:243][462]LogShaderCompilers: Display: Total job queries 634, among them cache hits 197 (31.07%), DDC hits 338 (53.31%), Duplicates 63 (9.94%)
+[2025.12.09-15.17.08:243][462]LogShaderCompilers: Display: Tracking 374 distinct input hashes that result in 248 distinct outputs (66.31%)
+[2025.12.09-15.17.08:243][462]LogShaderCompilers: Display: RAM used: 2.10 MiB of 819.20 MiB budget. Usage: 0.26%
+[2025.12.09-15.17.08:243][462]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.09-15.17.08:243][462]LogShaderCompilers: Display: Shaders Compiled: 36
+[2025.12.09-15.17.08:243][462]LogShaderCompilers: Display: Jobs assigned 36, completed 36 (100%)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Average time worker was idle: 19.00 s
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 1.23 s
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 1.31
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Shader code size: total 287.225 KiB, numShaders 36, average 7.978 KiB, min 3.934 KiB, max 13.479 KiB
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.93 s
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Average processing rate: 5.20 jobs/sec
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Total thread time: 14.246 s
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Total thread preprocess time: 7.174 s
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Percentage time preprocessing: 50.36%
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Effective parallelization: 2.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.171418
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.80 sec, max 0.84 sec, min 0.76 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.73 sec, max 0.80 sec, min 0.61 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.41 sec, max 0.46 sec, min 0.35 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.50% of total time (compiled    4 times, average 0.73 sec, max 0.80 sec, min 0.61 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.44% of total time (compiled    4 times, average 0.41 sec, max 0.46 sec, min 0.35 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.23% of total time (compiled    2 times, average 0.80 sec, max 0.84 sec, min 0.76 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.51% of total time (compiled    2 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.27% of total time (compiled    3 times, average 0.30 sec, max 0.31 sec, min 0.27 sec)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: === Material stats ===
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Materials Translated:    231
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Material Translation Only: 0.05 s (17%)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: Material Cache Hits: 28 (12%)
+[2025.12.09-15.17.08:245][462]LogShaderCompilers: Display: ================================================
+[2025.12.09-15.17.14:451][820]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.17.14:452][820]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.14:452][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.14:452][820]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.17.14:452][820]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.14:491][822]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.17.14:491][822]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.09-15.17.14:491][822]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.14:491][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.14:491][822]MaterialEditorStats: Shader Count: 4
+[2025.12.09-15.17.14:491][822]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.14:507][823]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.17.14:507][823]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.17.14:507][823]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.17.14:507][823]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.14:507][823]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.14:507][823]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.17.14:507][823]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.17:005][967]LogMaterialEditor: Applying material NewMaterial
+[2025.12.09-15.17.17:105][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.09-15.17.17:291][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.12.09-15.17.29:396][667]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.17.29:396][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.29:396][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.29:396][667]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.17.29:396][667]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.29:455][670]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.17.29:455][670]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.17.29:455][670]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.17.29:455][670]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.29:455][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.29:455][670]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.17.29:455][670]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.35:881][ 43]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.17.35:881][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.35:881][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.35:881][ 43]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.17.35:881][ 43]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.17.35:921][ 45]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.17.35:921][ 45]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.17.35:921][ 45]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.17.35:921][ 45]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.17.35:921][ 45]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.17.35:921][ 45]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.17.35:921][ 45]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.18.21:090][656]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.18.21:090][656]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.18.21:090][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.18.21:090][656]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.18.21:090][656]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.18.21:123][658]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.18.21:123][658]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.18.21:123][658]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.18.21:123][658]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.18.21:123][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.18.21:123][658]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.18.21:123][658]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.20.46:812][226]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.20.46:812][226]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.20.46:812][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.20.46:812][226]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.20.46:812][226]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.20.46:857][229]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.20.46:857][229]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.20.46:857][229]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.20.46:857][229]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.20.46:857][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.20.46:857][229]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.20.46:857][229]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.20.46:923][233]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.09-15.20.47:008][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.09-15.20.47:206][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.12.09-15.20.47:216][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.20.47:278][233]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial] ([1] browsable assets)...
+[2025.12.09-15.20.47:285][233]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial.NewMaterial]
+[2025.12.09-15.20.47:285][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial]
+[2025.12.09-15.20.47:296][233]LogSavePackage: Moving output files for package: /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial
+[2025.12.09-15.20.47:296][233]LogSavePackage: Moving '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Saved/NewMaterialC1D990D84779912A559B83B6C60CE240.tmp' to '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Content/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial.uasset'
+[2025.12.09-15.20.47:303][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.195 ms (total: 997.202 ms)
+[2025.12.09-15.20.47:379][233]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.20.47:379][233]LogContentValidation: Enabled validators:
+[2025.12.09-15.20.47:379][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.20.47:379][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.20.47:379][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.20.47:379][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.20.47:379][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.20.47:379][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.20.47:379][233]AssetCheck: /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial Validating asset
+[2025.12.09-15.20.47:415][233]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.09-15.20.58:792][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4024.384521
+[2025.12.09-15.20.58:935][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.20.58:935][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4024.510498, Update Interval: 309.043854
+[2025.12.09-15.21.00:067][957]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.09-15.21.00:093][957]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.09-15.21.00:107][957]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.21.00:108][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.21.00:139][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.09-15.21.01:913][ 65]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial.NewMaterial
+[2025.12.09-15.21.01:916][ 65]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.12.09-15.21.02:314][ 65]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.09-15.21.02:314][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.21.02:314][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.21.02:314][ 65]MaterialEditorStats: Shader Count: 0
+[2025.12.09-15.21.02:314][ 65]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.21.02:439][ 67]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.09-15.21.02:439][ 67]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.09-15.21.02:439][ 67]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.09-15.21.02:439][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.09-15.21.02:439][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.09-15.21.02:439][ 67]MaterialEditorStats: Shader Count: 5
+[2025.12.09-15.21.02:439][ 67]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.09-15.21.04:758][196]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.09-15.21.04:783][196]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.09-15.21.04:845][196]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.21.04:845][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.21.04:890][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.09-15.21.15:964][974]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial_Michail
+[2025.12.09-15.21.16:052][974]LogMaterial: Display: MaterialInterface NewMaterial has a incorrectly name EditorOnlyData 'NewMaterialEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'NewMaterial_MichailEditorOnlyData'.
+[2025.12.09-15.21.16:060][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.21.16:061][974]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial_Michail] ([1] browsable assets)...
+[2025.12.09-15.21.16:061][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial_Michail]
+[2025.12.09-15.21.16:068][974]LogSavePackage: Moving output files for package: /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial_Michail
+[2025.12.09-15.21.16:068][974]LogSavePackage: Moving '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Saved/NewMaterial_Michail32A270F6436B012C4A516BBC8814EC18.tmp' to '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Content/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial_Michail.uasset'
+[2025.12.09-15.21.16:069][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.102 ms (total: 1.00 sec)
+[2025.12.09-15.21.16:096][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.09-15.21.16:113][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.09-15.21.16:129][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.12.09-15.21.16:189][974]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.21.16:189][974]LogContentValidation: Enabled validators:
+[2025.12.09-15.21.16:189][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.21.16:189][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.21.16:189][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.21.16:189][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.21.16:189][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.21.16:189][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.21.16:189][974]AssetCheck: /Game/FBX/Spaceship___Low_Poly/spaceship_low_poly/Textures/NewMaterial_Michail Validating asset
+[2025.12.09-15.21.16:255][974]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.09-15.21.18:753][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.21.18:833][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.12.09-15.21.18:846][148]LogSavePackage: Moving output files for package: /Game/InCamVFXBP/Maps/Space_1
+[2025.12.09-15.21.18:847][148]LogSavePackage: Moving '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Saved/Space_14E1D88E443DB3FEC09A6E696EA41D18E.tmp' to '../../../../../../Users/25YChervynska.bife/Desktop/Asteroid_Run/Asteroid_Run/Content/InCamVFXBP/Maps/Space_1.umap'
+[2025.12.09-15.21.18:852][148]LogFileHelpers: Saving map 'Space_1' took 0.047
+[2025.12.09-15.21.18:858][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.781 ms (total: 1.11 sec)
+[2025.12.09-15.21.18:906][148]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.21.18:906][148]LogContentValidation: Enabled validators:
+[2025.12.09-15.21.18:906][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.21.18:906][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.21.18:906][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.21.18:906][148]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.21.18:906][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.21.18:906][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.21.18:906][148]AssetCheck: /Game/InCamVFXBP/Maps/Space_1 Validating asset
+[2025.12.09-15.21.21:947][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.12.09-15.21.24:067][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.12.09-15.21.24:095][516]LogStall: Shutdown...
+[2025.12.09-15.21.24:095][516]LogStall: Shutdown complete.
+[2025.12.09-15.21.24:124][516]LogSlate: Window 'Asteroid_Run - Unreal Editor' being destroyed
+[2025.12.09-15.21.24:126][516]LogWindowsTextInputMethodSystem: Activated input method: English (Ireland) - (Keyboard).
+[2025.12.09-15.21.24:345][517]Cmd: QUIT_EDITOR
+[2025.12.09-15.21.24:345][517]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.09-15.21.24:348][517]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.09-15.21.24:348][517]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.09-15.21.24:348][517]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.09-15.21.24:349][517]LogWorld: UWorld::CleanupWorld for Space_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.21.24:349][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.21.24:353][517]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.09-15.21.24:354][517]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.09-15.21.24:354][517]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.09-15.21.24:385][517]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.21.24:385][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.21.24:385][517]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.21.24:385][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.21.24:385][517]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.21.24:385][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.21.24:385][517]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.09-15.21.24:385][517]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.09-15.21.24:394][517]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.12.09-15.21.24:395][517]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.09-15.21.24:395][517]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.09-15.21.24:395][517]LogAudio: Display: Audio Device unregistered from world 'Space_1'.
+[2025.12.09-15.21.24:395][517]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.09-15.21.24:395][517]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.12.09-15.21.24:399][517]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.12.09-15.21.24:407][517]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.09-15.21.24:407][517]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.09-15.21.24:412][517]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.09-15.21.24:414][517]LogExit: Preparing to exit.
+[2025.12.09-15.21.24:468][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.09-15.21.25:630][517]LogEditorDataStorage: Deinitializing
+[2025.12.09-15.21.25:698][517]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.09-15.21.25:719][517]LogExit: Editor shut down
+[2025.12.09-15.21.25:722][517]LogExit: Transaction tracking system shut down
+[2025.12.09-15.21.25:853][517]LogExit: Object subsystem successfully closed.
+[2025.12.09-15.21.25:962][517]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.09-15.21.26:032][517]LogSharedMemoryMedia: Shutting down module SharedMemoryMedia'...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterMedia: Shutting down module 'DisplayClusterMedia'...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRemoteControlInterceptor: DisplayClusterRemoteControlInterceptor has been unregistered
+[2025.12.09-15.21.26:032][517]LogDisplayClusterWarp: Warp module shutdown
+[2025.12.09-15.21.26:032][517]LogDisplayClusterWarp: Un-registering <InFrustumFit> warp factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for warp policy: InFrustumFit
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for warp policy: InFrustumFit
+[2025.12.09-15.21.26:032][517]LogDisplayClusterWarp: Warp module has been shutdown.
+[2025.12.09-15.21.26:032][517]LogDisplayClusterWarp: Warp module has been destroyed
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Projection module shutdown
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <camera> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: camera
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: camera
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <domeprojection> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: domeprojection
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: domeprojection
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <easyblend> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: easyblend
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: easyblend
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <link> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: link
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: link
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <reference> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: reference
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: reference
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <manual> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: manual
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: manual
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <mpcdi> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: mpcdi
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: mpcdi
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <mesh> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: mesh
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: mesh
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <simple> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: simple
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: simple
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Un-registering <vioso> projection factory...
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistering factory for projection policy: vioso
+[2025.12.09-15.21.26:032][517]LogDisplayClusterRender: Unregistered factory for projection policy: vioso
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjection: Projection module has been destroyed
+[2025.12.09-15.21.26:032][517]LogDisplayClusterProjectionVIOSO: VIOSO API released.
+[2025.12.09-15.21.26:083][517]LogDisplayClusterModule: Cleaning up internals...
+[2025.12.09-15.21.26:083][517]LogDisplayClusterCluster: Releasing cluster manager...
+[2025.12.09-15.21.26:083][517]LogNDisplayLiveLinkSubjectReplicator: Unregistering sync object.
+[2025.12.09-15.21.26:202][517]LogRemoteControlWebInterface: WebApp exited
+[2025.12.09-15.21.27:121][517]LogHttpServerModule: Stopping all listeners...
+[2025.12.09-15.21.27:121][517]LogHttpListener: HttpListener stopping listening on Port 30010
+[2025.12.09-15.21.27:121][517]LogHttpServerModule: All listeners stopped
+[2025.12.09-15.21.27:122][517]LogHttpServerModule: Stopping all listeners...
+[2025.12.09-15.21.27:122][517]LogHttpServerModule: All listeners stopped
+[2025.12.09-15.21.27:122][517]LogMemoryProfiler: Shutdown
+[2025.12.09-15.21.27:122][517]LogNetworkingProfiler: Shutdown
+[2025.12.09-15.21.27:122][517]LoadingProfiler: Shutdown
+[2025.12.09-15.21.27:122][517]LogTimingProfiler: Shutdown
+[2025.12.09-15.21.27:123][517]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.12.09-15.21.27:123][517]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.12.09-15.21.27:504][517]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.09-15.21.27:514][517]RenderDocPlugin: plugin has been unloaded.
+[2025.12.09-15.21.27:551][517]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.09-15.21.27:551][517]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B80BE6AAA-4A4E-A25E-380C-F29116F602F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2018b8254e48c0eb09810b8ec723939e%7C6f846eb6dfea4860bf14a30dd0d8866b%7C2f9dfbdd-8941-41dd-8d5c-ff2ba4809446&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.09-15.21.28:109][517]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.09-15.21.28:109][517]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.09-15.21.28:119][517]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.09-15.21.28:119][517]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.09-15.21.28:119][517]LogPakFile: Destroying PakPlatformFile
+[2025.12.09-15.21.29:312][517]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.09-15.21.29:361][517]LogExit: Exiting.
+[2025.12.09-15.21.29:384][517]Log file closed, 12/09/25 15:21:29
