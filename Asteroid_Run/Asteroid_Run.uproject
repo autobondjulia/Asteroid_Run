@@ -107,6 +107,10 @@
 		{
 			"Name": "EpicStageApp",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
