@@ -69,6 +69,10 @@ I experienced challenges working with GitHub, especially with uploading the proj
   <sub><em>Early World Build</em></sub>
 </p>
 
+- **Report Update - December 10**
+
+> Due to the GitHub issues I mentioned to Michael, I recreated all my changes from today using my detailed step descriptions. I am rebuilding the spaceship Blueprint with the previously created thruster material and setting up a Niagara effect for the engine thrusters.
+
 ## 7. What I Learned
 
 
