@@ -70,8 +70,24 @@ I experienced challenges working with GitHub, especially with uploading the proj
 
 
 
+# My intentions 
+##### December 10
 
+For December 10, I planned the following tasks related to the dynamic environment and visual effects:
 
+- **Dynamic Environment Composition - Plan:**
+> Set up an animated asteroid field moving toward the spaceship.
+> Ensure that the asteroids’ movement and behavior change in real time.
 
+- **Chain of Events and Secondary Consequences - Plan:**
+> Configure the collision event between the spaceship and an asteroid.
+> Add secondary consequences: debris scattering and trajectory shifts after the impact.
+
+- **Engine Thrusters — Plan:**
+> Add engine thrusters to the spaceship.
+> Set up a glowing effect and a small particle stream to simulate propulsion.
+> Use these effects to enhance realism and highlight the direction of movement.
+
+Result:
 
 © 2025 Yuliia Chervynska
