@@ -109,6 +109,11 @@ For December 10, I planned the following tasks related to the dynamic environmen
 > Use these effects to enhance realism and highlight the direction of movement.
 
 *Result:*
+- I added engine thrusters to the spaceship to create a visual propulsion effect. The thrusters include animated glow and a small particle stream that simulates engine activity during flight. This enhances the realism of the scene and clearly emphasizes the direction of movement.
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/dcf4293b-45f4-4150-aba0-bdc782c64aaa" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9e851b2c-dbf2-4417-9835-c27ee74ea808" />
+<img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/464c7eee-0b6b-4f2e-8db6-c83edbbbdebe" />
 
 
 
