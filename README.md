@@ -80,20 +80,16 @@ For December 9, Start of Documentation - Plan
 > Begin collecting media materials and documenting the first project steps in the README and Trello.
 
 *Result:*
-
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
   <img src="https://github.com/user-attachments/assets/5eb3b23c-443c-45e1-9b11-85f45f3f2b01" width="400" alt="image">
   <br>
   <sub><em>Trello</em></sub>
 </p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
-  <img src="https://github.com/user-attachments/assets/5eb3b23c-443c-45e1-9b11-85f45f3f2b01" width="400" alt="image">
+  <img src="https://github.com/user-attachments/assets/699fce20-f586-4361-a812-4adf6c3a999a" width="400" alt="image">
   <br>
-  <sub><em>README</em></sub>
+  <sub><em>README in GitHub</em></sub>
 </p>
-
-
 
 ##### December 10
 
