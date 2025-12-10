@@ -54,15 +54,17 @@ I experienced challenges working with GitHub, especially with uploading the proj
 > After the lecturer approved an individual approach, I restarted the project from scratch - approximately one week before the submission deadline. This was challenging but helped me better understand the structure and logic of assembling the scene.
 > This is one of my early versions of the world layout, created during the initial stage of the project. However, after reviewing the brief and clarifying the requirements, I decided to rebuild the environment from scratch. On December 9th, I started assembling a new version of the project, incorporating the skills and improved understanding I had gained.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<figure> 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/8d001dcb-c06d-47d3-b984-25df3c9c8dbc" />
-<figcaption><i>Early World Build</i></figcaption>
-</figure>
+&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d001dcb-c06d-47d3-b984-25df3c9c8dbc" width="400" alt="image">
+  <br>
+  <sub><em>Early World Build</em></sub>
+</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<figure> 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/000ef0e2-c461-43af-9b52-433c8bffbdfa" />
-<figcaption><i>Early World Build</i></figcaption>
-</figure>
+&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
+  <img src="https://github.com/user-attachments/assets/000ef0e2-c461-43af-9b52-433c8bffbdfa" width="400" alt="image">
+  <br>
+  <sub><em>Early World Build</em></sub>
+</p>
 
 ## 7. What I Learned
 
