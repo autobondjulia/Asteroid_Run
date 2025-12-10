@@ -1,4 +1,5 @@
-# Asteroid Run - a cinematic sequence of a spaceship colliding with an asteroid.
+# Asteroid Run 
+*a cinematic sequence of a spaceship colliding with an asteroid.*
 
 ## 1. Project Overview
 
