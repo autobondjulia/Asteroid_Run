@@ -88,7 +88,7 @@ For December 10, I planned the following tasks related to the dynamic environmen
 > Set up a glowing effect and a small particle stream to simulate propulsion.
 > Use these effects to enhance realism and highlight the direction of movement.
 
-Result:
+*Result:*
 
 
 
