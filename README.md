@@ -13,13 +13,16 @@ This drawing represents my early storyboard and event-chain concept for the proj
 The sketch contains three main components:
 
  - **Spaceship trajectory.**
-It shows the ship moving forward in one direction and approaching an asteroid field.
+
+>It shows the ship moving forward in one direction and approaching an asteroid field.
 
  - **Asteroid field.**
-A group of large and small rocks is drawn, moving toward the spaceship. Some of the rocks are intended to bounce off the ship on impact (dynamic environmental composition).
+
+> A group of large and small rocks is drawn, moving toward the spaceship. Some of the rocks are intended to bounce off the ship on impact (dynamic environmental composition).
 
  - **Chain of secondary consequences.**
-After the collision, the main asteroid falls downward (toward a planet surface or deeper into space), while smaller debris pieces scatter around the ship, creating secondary effects-flashes, sparks, and changes in object movement.
+
+> After the collision, the main asteroid falls downward (toward a planet surface or deeper into space), while smaller debris pieces scatter around the ship, creating secondary effects-flashes, sparks, and changes in object movement.
 
 An additional note includes a camera goal, indicating the planned cinematic angle to capture the event.
 
@@ -35,6 +38,21 @@ As a result, the teamwork ended at the conceptual stage, and the full implementa
 ## 4. Chain of Events and Secondary Consequences
 ## 5. Code and Blueprint Logic
 ## 6. Issues and Fixes
+
+ - **Difficulties with GitHub**
+
+> One of the tasks was to document the entire project creation process through GitHub. This includes tracking work stages, uploading updates, maintaining version history, and clearly demonstrating how the scene evolved throughout the development period.
+
+I experienced challenges working with GitHub, especially with uploading the project and understanding the repository structure. Some parts are still not fully clear, but I believe that with more practice I will become confident using this tool.
+
+ - **World-building logic and background setup**
+
+> I had issues creating a proper background for the scene. Specifically, I couldn’t set up an HDRI environment or successfully import texture cubes (2D skybox elements) into Unreal Engine. I plan to return to this after completing the main task in order to improve the visual quality of the scene.
+
+ - **Project restart**
+
+> After the lecturer approved an individual approach, I restarted the project from scratch - approximately one week before the submission deadline. This was challenging but helped me better understand the structure and logic of assembling the scene.
+
 ## 7. What I Learned
 
 
