@@ -74,6 +74,27 @@ I experienced challenges working with GitHub, especially with uploading the proj
 
 
 # My Intentions & Completed List 
+##### December 9
+
+For December 9, Start of Documentation - Plan
+> Begin collecting media materials and documenting the first project steps in the README and Trello.
+
+*Result:*
+
+&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
+  <img src="https://github.com/user-attachments/assets/5eb3b23c-443c-45e1-9b11-85f45f3f2b01" width="400" alt="image">
+  <br>
+  <sub><em>Trello</em></sub>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
+  <img src="https://github.com/user-attachments/assets/5eb3b23c-443c-45e1-9b11-85f45f3f2b01" width="400" alt="image">
+  <br>
+  <sub><em>README</em></sub>
+</p>
+
+
+
 ##### December 10
 
 For December 10, I planned the following tasks related to the dynamic environment and visual effects:
