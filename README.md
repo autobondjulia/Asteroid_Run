@@ -73,7 +73,7 @@ I experienced challenges working with GitHub, especially with uploading the proj
 
 
 
-# My intentions 
+# My Intentions & Completed List 
 ##### December 10
 
 For December 10, I planned the following tasks related to the dynamic environment and visual effects:
