@@ -90,4 +90,24 @@ For December 10, I planned the following tasks related to the dynamic environmen
 
 Result:
 
-© 2025 Yuliia Chervynska
+
+
+
+
+
+
+
+
+
+
+<hr>
+<p align="center">
+<sub>© 2025 Yuliia Chervynska</sub> <br>
+<sub>Faculty of Film, Art & Creative Technologies. Department of Technology & Psychology</sub><br>
+<sub>DL850 BA (Hons) Immersive Media Production</sub><br>
+<sub>BA Immersive Media Production 2023-24 / Storytelling Through Media</sub><br>
+<sub>3D Modelling and Asset Creation</sub><br>
+<sub>Lector - Michael Ó Donnchadha</sub><br>
+<sub>Dynamic Responsive Environment for Virtual Production</sub><br>
+</p>
+
