@@ -130,8 +130,11 @@ Set up an animated asteroid field moving toward the spaceship. Ensure that the a
 
 *Result:*
 
+- I created a levitation effect for the asteroids. Now I am working on limiting their movement so they don’t drift too far outside the scene.
 -
--
+
+<img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/8f097317-b2ae-4075-af03-5a0721d7fced" />
+<img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/d2366655-64c4-45d2-97d7-116e56709cbe" />
 
 
 <br>
