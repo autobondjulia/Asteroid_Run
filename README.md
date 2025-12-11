@@ -121,14 +121,21 @@ For December 10, I planned the following tasks related to the dynamic environmen
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/464c7eee-0b6b-4f2e-8db6-c83edbbbdebe" />
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/71d14976-bd1c-4e10-8d85-3880882bfc1a" />
 
+##### December 11 - Update
+
+Set up an animated asteroid field moving toward the spaceship. Ensure that the asteroids’ movement and behavior change in real time.
+
+- **Dynamic Environment Composition - (addition):**
+> I am creating a levitation effect for the asteroids to make their motion look more natural in the space environment.
+
+*Result:*
+
+-
+-
 
 
-
-
-
-
-
-
+<br>
+<br>
 <hr>
 <p align="center">
 <sub>© 2025 Yuliia Chervynska</sub> <br>
