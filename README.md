@@ -114,12 +114,12 @@ For December 10, I planned the following tasks related to the dynamic environmen
 
 *Result:*
 - I added engine thrusters to the spaceship to create a visual propulsion effect. The thrusters include animated glow and a small particle stream that simulates engine activity during flight. This enhances the realism of the scene and clearly emphasizes the direction of movement.
+- The engine thrusters that create the visual propulsion effect are currently implemented using Niagara. However, I am considering reworking them with a different method to improve the visual quality and achieve a more accurate effect.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/dcf4293b-45f4-4150-aba0-bdc782c64aaa" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9e851b2c-dbf2-4417-9835-c27ee74ea808" />
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/464c7eee-0b6b-4f2e-8db6-c83edbbbdebe" />
-
-
+<img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/71d14976-bd1c-4e10-8d85-3880882bfc1a" />
 
 
 
