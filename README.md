@@ -136,6 +136,21 @@ Set up an animated asteroid field moving toward the spaceship. Ensure that the a
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/8f097317-b2ae-4075-af03-5a0721d7fced" />
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/d2366655-64c4-45d2-97d7-116e56709cbe" />
 
+##### December 12 - Update
+
+Set up an animated asteroid field moving toward the spaceship. Ensure that the asteroids’ movement and behavior change in real time.
+
+- **Dynamic Environment Composition - (addition):**
+> I am creating movement limits for the asteroid spread. Small asteroids receive a random initial impulse and move independently. On collision, the Event Hit is triggered.
+- Two scenarios are planned: when hitting an invisible sphere or a large asteroid, the direction changes (bounce effect); when hitting the spaceship, a special effect is triggered — sound, flash, and fragmentation into smaller pieces.
+
+*Result:*
+
+- 
+-
+
+<img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+<img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
 
 <br>
 <br>
