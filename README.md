@@ -163,13 +163,14 @@ ______________________________________
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/53ce3135-08d3-41b6-847a-c73ec7331187" />
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/a3ccc15e-0616-4573-b0c7-4e58260b40db" />
 
--  The large asteroid (BP_BigAsteroid) slowly levitates
+- The large asteroid (BP_BigAsteroid) slowly levitates
 - Small asteroids (BP_SmallAsteroid) are manually placed around the large one
 - All small asteroids exist within an imaginary sphere around the big asteroid
 
 - The spaceship flies directly toward the large asteroid
   
 > The camera represents what the audience sees, so I first establish the cinematic frame and then adjust all other movement and scene logic around it.
+
 *Result:*
 
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/7e22dd07-ed27-4b2e-b43e-298e160ecde3" />
@@ -177,6 +178,14 @@ ______________________________________
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/9d8054bf-0c7f-404c-8e35-cc1a38e13cfa" />
 
 - Button 1 enables collision mode (small asteroids hit the ship)
+
+> Collisions in the scene are activated by pressing key 1, allowing controlled timing of interactions in a cinematic setup.
+
+*Result:*
+
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+
 - Button 2 enables landing mode on the large asteroid
 - FX (debris, particles) spawn only on collision and are handled separately
 - The main scene is cinematic, not a physical simulation
