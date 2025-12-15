@@ -166,7 +166,16 @@ ______________________________________
 -  The large asteroid (BP_BigAsteroid) slowly levitates
 - Small asteroids (BP_SmallAsteroid) are manually placed around the large one
 - All small asteroids exist within an imaginary sphere around the big asteroid
+
 - The spaceship flies directly toward the large asteroid
+  
+> The camera represents what the audience sees, so I first establish the cinematic frame and then adjust all other movement and scene logic around it.
+*Result:*
+
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/7e22dd07-ed27-4b2e-b43e-298e160ecde3" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/20857e09-4bd1-4dc5-87fd-6d876a865fdd" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/9d8054bf-0c7f-404c-8e35-cc1a38e13cfa" />
+
 - Button 1 enables collision mode (small asteroids hit the ship)
 - Button 2 enables landing mode on the large asteroid
 - FX (debris, particles) spawn only on collision and are handled separately
