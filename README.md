@@ -95,6 +95,7 @@ For December 9, Start of Documentation - Plan
   <sub><em>README in GitHub</em></sub>
 </p>
 
+______________________________________
 ##### December 10
 
 For December 10, I planned the following tasks related to the dynamic environment and visual effects:
@@ -121,6 +122,7 @@ For December 10, I planned the following tasks related to the dynamic environmen
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/464c7eee-0b6b-4f2e-8db6-c83edbbbdebe" />
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/71d14976-bd1c-4e10-8d85-3880882bfc1a" />
 
+______________________________________
 ##### December 11 - Update
 
 Set up an animated asteroid field moving toward the spaceship. Ensure that the asteroids’ movement and behavior change in real time.
@@ -136,6 +138,7 @@ Set up an animated asteroid field moving toward the spaceship. Ensure that the a
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/8f097317-b2ae-4075-af03-5a0721d7fced" />
 <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/d2366655-64c4-45d2-97d7-116e56709cbe" />
 
+______________________________________
 ##### December 12 - Update
 
 Set up an animated asteroid field moving toward the spaceship. Ensure that the asteroids’ movement and behavior change in real time.
@@ -146,11 +149,39 @@ Set up an animated asteroid field moving toward the spaceship. Ensure that the a
 
 *Result:*
 
-- 
--
+- All asteroids were dispersing at the same time, so I decided to change the scene logic and switch to a more controlled, cinematic approach.
 
-<img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
-<img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+>
+______________________________________
+##### December 15 - Update
+
+**Updated Scene Logic - Cinematic Plan**
+- The camera is a component inside BP_Spaceship and follows the ship
+
+*Result:*
+
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/53ce3135-08d3-41b6-847a-c73ec7331187" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/a3ccc15e-0616-4573-b0c7-4e58260b40db" />
+
+-  The large asteroid (BP_BigAsteroid) slowly levitates
+- Small asteroids (BP_SmallAsteroid) are manually placed around the large one
+- All small asteroids exist within an imaginary sphere around the big asteroid
+- The spaceship flies directly toward the large asteroid
+- Button 1 enables collision mode (small asteroids hit the ship)
+- Button 2 enables landing mode on the large asteroid
+- FX (debris, particles) spawn only on collision and are handled separately
+- The main scene is cinematic, not a physical simulation
+- After landing, the camera and scene logic change
+
+*Result:*
+
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+
+*Result:*
+
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
 
 <br>
 <br>
