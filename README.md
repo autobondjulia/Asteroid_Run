@@ -201,7 +201,7 @@ ______________________________________
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
 
-<br>
+<br> 
 <br>
 <hr>
 <p align="center">
