@@ -182,8 +182,8 @@ ______________________________________
 > Collisions in the scene are activated by pressing key 1, allowing controlled timing of interactions in a cinematic setup.
 
 *Result:*
-
-> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+> I made a mistake by planning the camera shot to start at game launch while the spaceship was already moving toward the collision. I am now reworking the logic by separating the shooting stages directly inside BP_Spaceship, before the scene on the Big Asteroid.
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/466a6f1a-907c-47c1-9013-04716ed05f29" />
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
 
 - Button 2 enables landing mode on the large asteroid
