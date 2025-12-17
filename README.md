@@ -185,11 +185,30 @@ ______________________________________
 > I made a mistake by planning the camera shot to start at game launch while the spaceship was already moving toward the collision. I am now reworking the logic by separating the shooting stages directly inside BP_Spaceship, before the scene on the Big Asteroid.
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/466a6f1a-907c-47c1-9013-04716ed05f29" />
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+  
+> When the spaceship collides with a small asteroid, I plan to teleport it to a LandingPoint inside BP_BigAsteroid_Landing. At the moment, the teleport works only by world coordinates and does not yet correctly attach the ship to the asteroid surface.
 
-- Button 2 enables landing mode on the large asteroid
+*Result:*
+Despite multiple attempts to implement landing on the asteroid, the teleportation moves the spaceship to an unexpected LandingPoint inside BP_BigAsteroid_Landing, instead of the intended position on the asteroid’s surface.
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/42ba96fa-5b7b-4981-b8ac-073815efc364" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/a15d2c8c-13db-4f00-b2b5-fe0348e5f697" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/c62fcc0f-6066-4c60-aaa2-7dff24949b71" />
+
 - FX (debris, particles) spawn only on collision and are handled separately
+
+> I did not have enough time to implement additional visual effects using the Post Process Volume. Specifically, I was unable to add enhanced engine exhaust, a glow effect on asteroid impact, and a fog or haze effect on the asteroid surface after landing.
+
+*Result:*
+
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+
+
 - The main scene is cinematic, not a physical simulation
-- After landing, the camera and scene logic change
+
+тут мне нужно видео всей сцены
+  
+- After landing, the camera does not change - the same camera that initially followed the spaceship continues to be used. It simply captures what is happening from the ship’s landing position, without switching to a different camera or viewpoint.
 
 *Result:*
 
@@ -200,6 +219,11 @@ ______________________________________
 
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/" />
+
+
+
+
+
 
 <br> 
 <br>
