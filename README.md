@@ -196,6 +196,32 @@ ______________________________________
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/a15d2c8c-13db-4f00-b2b5-fe0348e5f697" />
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/c62fcc0f-6066-4c60-aaa2-7dff24949b71" />
 
+
+______________________________________
+##### January 6 - Update
+
+**Updated Scene Logic - Cinematic Plan**
+- teleport
+
+*Result:*
+> The teleportation mechanic was successfully implemented. The issue occurred because I was attempting to land the spaceship on a levitating large asteroid, where the landing point could not be calculated correctly due to its continuous movement. To solve this, I created an additional large asteroid in a static state and defined a fixed landing point on it.
+
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/39951575-64d1-4069-9d6f-373de8197dce" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/bc840a86-22a1-4f0e-a374-01e62c5379b1" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/dfc05b91-a209-4052-a803-35eca0c27ac0" />
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/7577be8c-fa76-4494-a539-38cbbe6da2b0" />
+
+> After that, I added a screen fade effect at the moment of impact with the small asteroid and just before the spaceship teleportation, to visually connect the collision and the scene transition.
+
+> <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/87eb45c6-10e6-4b4c-aec0-d4d6cead4f48" />
+
+
+
+
+
+
+
+
 - FX (debris, particles) spawn only on collision and are handled separately
 
 > I did not have enough time to implement additional visual effects using the Post Process Volume. Specifically, I was unable to add enhanced engine exhaust, a glow effect on asteroid impact, and a fog or haze effect on the asteroid surface after landing.
