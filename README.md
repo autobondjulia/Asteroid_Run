@@ -198,7 +198,7 @@ ______________________________________
 
 
 ______________________________________
-##### January 6 - Update
+##### January 5 - Update
 
 **Updated Scene Logic - Cinematic Plan**
 - teleport
@@ -214,6 +214,27 @@ ______________________________________
 > After that, I added a screen fade effect at the moment of impact with the small asteroid and just before the spaceship teleportation, to visually connect the collision and the scene transition.
 
 > <img width="400" alt="scheme material of engine thrusters to the spaceship" src="https://github.com/user-attachments/assets/87eb45c6-10e6-4b4c-aec0-d4d6cead4f48" />
+
+
+
+______________________________________
+##### January 6 - Building a Static Big Asteroid Scene to Connect Two Assignments (3D Modelling and Asset Creation - Scene Building in Asteroid Run)
+**Updated Scene Logic - Cinematic Plan**
+- I am connecting two assignments within a single project by developing a static Big Asteroid scene.
+After the cinematic collision and landing sequence, the project transitions into an environmental showcase, shifting the focus from movement to environment, lighting, and composition.
+
+In this scene:
+
+1. The spaceship has landed, with smoke coming from it.
+2. Astronauts exit the ship and move toward a building ahead.
+3. The camera follows them, transitioning from a ship-follow camera to a cinematic scene camera.
+4. The camera is planned to move along a curve (Spline) instead of a straight line for smoother cinematic motion.
+
+*Result:*
+> The
+
+
+
 
 
 
