@@ -245,13 +245,17 @@ BP_RunPath acts as a “scene controller” and includes:
 > <img width="400" alt="image" src="https://github.com/user-attachments/assets/54e1da63-10d7-4d0c-9355-a908a8f85fb9" />
 > <img width="400" alt="image" src="https://github.com/user-attachments/assets/bec70ab8-c775-4054-b332-f0f1ba552c57" />
 
+
 > 3. FOLLOW CAM
->
+> I planned to enable a follow camera after the teleport so the camera continues tracking the action on the asteroid. This is not working yet: after teleportation, the camera does not switch into follow mode and keeps its previous behavior (stays fixed on the ship/landing position).
 > 
 > <img width="400" alt="image" src="https://github.com/user-attachments/assets/aa6d1dd7-0671-45de-8a8a-2f1aa02bc130" />
+> <img width="400" alt="image" src="https://github.com/user-attachments/assets/f81fe3d4-37a6-46aa-b34b-78d6133230b9" />
 
 
-> 4.1. я замедлила движение актера
+
+> 4.1. I slowed down the character’s movement to better observe and refine the movement path. However, the second character is currently not visible in the frame, even though offsets have been set both for the camera and for the second character relative to the spline.
+> 
 > <img width="400" alt="image" src="https://github.com/user-attachments/assets/1a241842-3a25-4215-85d8-67960cf174b1" />
 > <img width="400" alt="image" src="https://github.com/user-attachments/assets/513da5ae-6a83-428b-ac72-8dc3d493cf2b" />
 
@@ -261,7 +265,7 @@ BP_RunPath acts as a “scene controller” and includes:
 
 
 
-
+> NOT FIXED MORE:
 
 - FX (debris, particles) spawn only on collision and are handled separately
 
