@@ -231,19 +231,25 @@ In this scene:
 4. The camera is planned to move along a curve (Spline) instead of a straight line for smoother cinematic motion.
 
 *Result:*
-> The
+> 2. I use two characters and create a short cinematic moment: after the spaceship crash/landing, both characters run away from the ship and move toward a target point (for example, a building). This sequence is controlled through a Blueprint called BP_RunPath.
+BP_RunPath acts as a “scene controller” and includes:
+> - Movement path (Spline) — defines the running trajectory.
+> - Start and End points — where the characters spawn and where they need to reach.
+> - Movement trigger — activated by an event (e.g., after landing/teleport) or by a key press.
+> - Run animation — played while the characters move (run loop).
+> - Camera follow / switch (optional) — the camera follows the characters or switches to a cinematic angle during the run.
+> This makes the sequence fully controlled and cinematic (not a simulation): the characters follow a predefined route, and the camera captures the action as a planned shot.
+> 
+> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/8b364fbb-8bea-48a4-ad07-9567d4733e5f" />
+> <img width="400" alt="image" src="https://github.com/user-attachments/assets/c5813569-8cc8-43da-a764-bae0402e24d9" />
+> <img width="400" alt="image" src="https://github.com/user-attachments/assets/bec70ab8-c775-4054-b332-f0f1ba552c57" />
+
+> 3. FOLLOW CAM
 
 
 
 
 
-
-
-
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/8b364fbb-8bea-48a4-ad07-9567d4733e5f" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/c5813569-8cc8-43da-a764-bae0402e24d9" />
-
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/bec70ab8-c775-4054-b332-f0f1ba552c57" />
 
 
 
