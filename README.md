@@ -246,10 +246,15 @@ BP_RunPath acts as a “scene controller” and includes:
 > <img width="400" alt="image" src="https://github.com/user-attachments/assets/bec70ab8-c775-4054-b332-f0f1ba552c57" />
 
 > 3. FOLLOW CAM
+>
 > 
-> 
+> <img width="400" alt="image" src="https://github.com/user-attachments/assets/aa6d1dd7-0671-45de-8a8a-2f1aa02bc130" />
 
-> 4. 
+
+> 4.1. я замедлила движение актера
+> <img width="400" alt="image" src="https://github.com/user-attachments/assets/1a241842-3a25-4215-85d8-67960cf174b1" />
+> <img width="400" alt="image" src="https://github.com/user-attachments/assets/513da5ae-6a83-428b-ac72-8dc3d493cf2b" />
+
 
 
 
